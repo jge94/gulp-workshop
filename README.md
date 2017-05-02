@@ -1,3 +1,6 @@
+# Jinnan's Comment:
+Finished the entire workshop for Gulp.
+
 # Gulp Workshop
 
 Task runners like Gulp automate most all of the legwork that comes from customizing your webdev toolkit. Here, you will tie together many cool technologies that we have learned from other workshops. We can convert pug into HTML, SASS into CSS, CoffeeScript into JavasScript, and we still get hot reloading and linting.
